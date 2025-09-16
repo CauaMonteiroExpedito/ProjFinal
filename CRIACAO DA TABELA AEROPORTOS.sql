@@ -1,7 +1,3 @@
-create database ProjetoFinal;
-
-use ProjetoFinal;
-
 CREATE TABLE Aeroportos (
     id INT AUTO_INCREMENT PRIMARY KEY,
     nome VARCHAR(100) NOT NULL,
@@ -12,4 +8,3 @@ CREATE TABLE Aeroportos (
     pistas_voo INT NOT NULL,
     localizacao VARCHAR(255) NOT NULL
 );
-        
