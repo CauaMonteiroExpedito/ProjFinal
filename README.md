@@ -3,3 +3,6 @@ Esse é o meu projeto final do Técnico de Informática.
 Controle de Equipamentos em Aeroportos.
 
 O programa permite o cadastro de aeroportos, equipamentos, fornecedor, manutenlção e *técnicos* dos dequipamentos, além de possuir as funções de alteração, listagem e exclusão.
+
+Caso de Uso:
+https://github.com/CauaMonteiroExpedito/ProjFinal/blob/main/CasoDeUsoProjetoFinal.pdf
