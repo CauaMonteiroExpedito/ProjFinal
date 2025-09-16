@@ -1,4 +1,3 @@
-create database ProjetoFinal;
 use ProjetoFinal;
 
 create table	tecnicos(
@@ -9,3 +8,4 @@ telefone VARCHAR(11),
 setor VARCHAR(255),
 primary key	(id)
 );
+
