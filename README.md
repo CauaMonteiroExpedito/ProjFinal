@@ -1,3 +1,5 @@
-Esse é o Projeto Final do Técnico de Informática. Ele faz o controle de equipamentos em aeroportos, 
-neles contendo equipamento, fornecedor, manutenção e técnico (Cadastro, alteração, lista e exclusão). 
-Sendo necessário criar um banco de dados e usar um servidor apache tomcat (No caso desse foi usado o 7)
+Esse é o meu projeto final do Técnico de Informática. 
+
+Controle de Equipamentos em Aeroportos.
+
+o programa permite o cadastro de aeroportos, equipamentos, fornecedor, manutenlção e *técnicos* dos dequipamentos, além de possuir as funções de alteração, listagem e exclusão.
