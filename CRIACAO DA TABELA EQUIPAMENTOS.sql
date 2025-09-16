@@ -1,7 +1,3 @@
-create database projetofinal;
-
-use projetofinal;
-
 CREATE TABLE IF NOT EXISTS equipamentos (
   id BIGINT NOT NULL AUTO_INCREMENT,
   nomeequipamento VARCHAR(100) NOT NULL,
